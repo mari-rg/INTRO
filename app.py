@@ -1,4 +1,6 @@
+
 import streamlit as st
+from PIL import Image 
 
 st.title("HOLA! Mi Nombre es Majooo ")
 st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
